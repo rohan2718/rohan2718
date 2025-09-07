@@ -2,7 +2,6 @@
 👋 Hi, I’m Rohan  
 📊 Aspiring **Data Analyst** passionate about uncovering insights from data.  
 📚 Currently learning **Data Visualization & SQL** while working on real projects.  
-🎯 Goal: To grow as a Data Analyst and prepare for **Campus Placements 2025**.  
 
 ---
 
